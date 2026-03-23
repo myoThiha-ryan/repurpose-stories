@@ -33,6 +33,11 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# runtime data (tokens, upload history, uploaded videos)
+/data/
+/public/uploads/*
+!/public/uploads/.gitkeep
+
 # vercel
 .vercel
 
