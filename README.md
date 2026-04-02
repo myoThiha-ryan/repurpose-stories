@@ -144,7 +144,3 @@ data/                         # Auto-created at runtime
 
 public/uploads/               # Uploaded video files (served statically)
 ```
-
-## License
-
-MIT
